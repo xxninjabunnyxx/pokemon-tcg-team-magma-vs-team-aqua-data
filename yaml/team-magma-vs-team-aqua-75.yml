@@ -1,0 +1,68 @@
+---
+id: ex4-75
+name: Team Aqua Ball
+supertype: Trainer
+subtypes:
+- Item
+rules:
+- Flip a coin. If heads, search your deck for a Pokémon that has Team Aqua in its
+  name, show it to your opponent, and put it into your hand. If tails, search your
+  deck for a Basic Pokémon that has Team Aqua in its name, show it to your opponent
+  and put it into your hand. Shuffle your deck afterward.
+set:
+  id: ex4
+  name: Team Magma vs Team Aqua
+  series: EX
+  printedTotal: 95
+  total: 97
+  legalities:
+    unlimited: Legal
+  ptcgoCode: MA
+  releaseDate: 2004/03/01
+  updatedAt: 2019/01/28 16:44:00
+  images:
+    symbol: https://images.pokemontcg.io/ex4/symbol.png
+    logo: https://images.pokemontcg.io/ex4/logo.png
+number: '75'
+artist: Ryo Ueda
+rarity: Uncommon
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/ex4/75.png
+  large: https://images.pokemontcg.io/ex4/75_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/ex4-75
+  updatedAt: 2023/09/09
+  prices:
+    normal:
+      low: 0.25
+      mid: 0.63
+      high: 1.99
+      market: 0.56
+      directLow: 0.63
+    reverseHolofoil:
+      low: 1.07
+      mid: 3.84
+      high: 5.99
+      market: 4.99
+      directLow: 2.0
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/ex4-75
+  updatedAt: 2023/09/09
+  prices:
+    averageSellPrice: 0.42
+    lowPrice: 0.04
+    trendPrice: 0.35
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.4
+    reverseHoloTrend: 2.36
+    lowPriceExPlus: 0.09
+    avg1: 0.26
+    avg7: 0.34
+    avg30: 0.33
+    reverseHoloAvg1: 1.99
+    reverseHoloAvg7: 1.49
+    reverseHoloAvg30: 1.81

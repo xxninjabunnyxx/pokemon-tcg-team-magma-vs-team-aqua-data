@@ -1,0 +1,91 @@
+---
+id: ex4-26
+name: Team Aqua's Corphish
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '50'
+types:
+- Water
+evolvesTo:
+- Crawdaunt
+attacks:
+- name: Double Pinchers
+  cost:
+  - Colorless
+  convertedEnergyCost: 1
+  damage: 10×
+  text: Flip 2 coins. This attack does 10 damage times the number of heads.
+- name: Dark Poison
+  cost:
+  - Darkness
+  - Colorless
+  convertedEnergyCost: 2
+  damage: '20'
+  text: Discard a basic Energy card attached to Team Aqua's Corphish or this attack
+    does nothing. The Defending Pokémon is now Poisoned.
+weaknesses:
+- type: Lightning
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: ex4
+  name: Team Magma vs Team Aqua
+  series: EX
+  printedTotal: 95
+  total: 97
+  legalities:
+    unlimited: Legal
+  ptcgoCode: MA
+  releaseDate: 2004/03/01
+  updatedAt: 2019/01/28 16:44:00
+  images:
+    symbol: https://images.pokemontcg.io/ex4/symbol.png
+    logo: https://images.pokemontcg.io/ex4/logo.png
+number: '26'
+artist: Jungo Suzuki
+rarity: Uncommon
+nationalPokedexNumbers:
+- 341
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/ex4/26.png
+  large: https://images.pokemontcg.io/ex4/26_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/ex4-26
+  updatedAt: 2023/09/09
+  prices:
+    normal:
+      low: 0.8
+      mid: 1.09
+      high: 2.72
+      market: 1.07
+      directLow: 
+    reverseHolofoil:
+      low: 0.95
+      mid: 4.95
+      high: 5.97
+      market: 0.95
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/ex4-26
+  updatedAt: 2023/09/09
+  prices:
+    averageSellPrice: 0.35
+    lowPrice: 0.08
+    trendPrice: 0.75
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 2.99
+    reverseHoloLow: 0.39
+    reverseHoloTrend: 3.8
+    lowPriceExPlus: 0.19
+    avg1: 1.99
+    avg7: 0.64
+    avg30: 0.61
+    reverseHoloAvg1: 2.99
+    reverseHoloAvg7: 3.15
+    reverseHoloAvg30: 2.29

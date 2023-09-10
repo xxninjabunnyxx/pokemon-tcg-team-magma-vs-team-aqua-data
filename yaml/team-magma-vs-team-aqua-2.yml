@@ -1,0 +1,97 @@
+---
+id: ex4-2
+name: Team Aqua's Crawdaunt
+supertype: Pokémon
+subtypes:
+- Stage 1
+hp: '80'
+types:
+- Water
+- Darkness
+evolvesFrom: Team Aqua's Corphish
+rules:
+- This Pokémon is both Water Darkness type.
+attacks:
+- name: Aqua Reverse
+  cost:
+  - Darkness
+  - Colorless
+  convertedEnergyCost: 2
+  damage: '20'
+  text: Before doing damage, you may choose 1 of your opponent's Benched Pokémon that
+    has Team Magma in its name and switch it with 1 of the Defending Pokémon. Your
+    opponent chooses the Defending Pokémon to switch.
+- name: Deep Impact
+  cost:
+  - Water
+  - Water
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '40'
+  text: If the Defending Pokémon already has any damage counters on it, the Defending
+    Pokémon is now Confused.
+weaknesses:
+- type: Lightning
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: ex4
+  name: Team Magma vs Team Aqua
+  series: EX
+  printedTotal: 95
+  total: 97
+  legalities:
+    unlimited: Legal
+  ptcgoCode: MA
+  releaseDate: 2004/03/01
+  updatedAt: 2019/01/28 16:44:00
+  images:
+    symbol: https://images.pokemontcg.io/ex4/symbol.png
+    logo: https://images.pokemontcg.io/ex4/logo.png
+number: '2'
+artist: Nakaoka
+rarity: Rare Holo
+nationalPokedexNumbers:
+- 342
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/ex4/2.png
+  large: https://images.pokemontcg.io/ex4/2_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/ex4-2
+  updatedAt: 2023/09/09
+  prices:
+    holofoil:
+      low: 5.75
+      mid: 7.94
+      high: 10.98
+      market: 8.76
+      directLow: 
+    reverseHolofoil:
+      low: 9.25
+      mid: 14.95
+      high: 24.99
+      market: 9.72
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/ex4-2
+  updatedAt: 2023/09/09
+  prices:
+    averageSellPrice: 2.5
+    lowPrice: 0.75
+    trendPrice: 3.41
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 1.0
+    reverseHoloTrend: 7.22
+    lowPriceExPlus: 2.5
+    avg1: 4.49
+    avg7: 3.36
+    avg30: 4.63
+    reverseHoloAvg1: 5.0
+    reverseHoloAvg7: 7.55
+    reverseHoloAvg30: 4.08

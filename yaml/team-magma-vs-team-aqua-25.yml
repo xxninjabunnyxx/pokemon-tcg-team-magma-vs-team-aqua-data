@@ -1,0 +1,89 @@
+---
+id: ex4-25
+name: Team Aqua's Carvanha
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '50'
+types:
+- Water
+evolvesTo:
+- Sharpedo
+abilities:
+- name: Dark Lift
+  text: If Team Aqua's Carvanha has any Darkness Energy attached to it, the Retreat
+    Cost for Team Aqua's Carvanha is 0.
+  type: Poké-Body
+attacks:
+- name: Slow-Acting Poison
+  cost:
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 2
+  damage: '20'
+  text: At the end of your opponent's next turn, the Defending Pokémon is now Poisoned.
+weaknesses:
+- type: Lightning
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: ex4
+  name: Team Magma vs Team Aqua
+  series: EX
+  printedTotal: 95
+  total: 97
+  legalities:
+    unlimited: Legal
+  ptcgoCode: MA
+  releaseDate: 2004/03/01
+  updatedAt: 2019/01/28 16:44:00
+  images:
+    symbol: https://images.pokemontcg.io/ex4/symbol.png
+    logo: https://images.pokemontcg.io/ex4/logo.png
+number: '25'
+artist: Mt. TBT
+rarity: Uncommon
+nationalPokedexNumbers:
+- 318
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/ex4/25.png
+  large: https://images.pokemontcg.io/ex4/25_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/ex4-25
+  updatedAt: 2023/09/09
+  prices:
+    normal:
+      low: 0.79
+      mid: 1.08
+      high: 1.99
+      market: 1.21
+      directLow: 
+    reverseHolofoil:
+      low: 1.31
+      mid: 2.38
+      high: 3.73
+      market: 2.99
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/ex4-25
+  updatedAt: 2023/09/09
+  prices:
+    averageSellPrice: 0.31
+    lowPrice: 0.02
+    trendPrice: 0.56
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 1.33
+    reverseHoloLow: 0.3
+    reverseHoloTrend: 1.6
+    lowPriceExPlus: 0.33
+    avg1: 0.25
+    avg7: 0.78
+    avg30: 0.59
+    reverseHoloAvg1: 1.99
+    reverseHoloAvg7: 1.59
+    reverseHoloAvg30: 1.54

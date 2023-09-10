@@ -1,0 +1,91 @@
+---
+id: ex4-38
+name: Team Magma's Rhyhorn
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '50'
+types:
+- Fighting
+evolvesTo:
+- Rhydon
+attacks:
+- name: Double Damage
+  cost:
+  - Colorless
+  convertedEnergyCost: 1
+  damage: ''
+  text: Does 10 damage to each Defending Pokémon.
+- name: Horn Rush
+  cost:
+  - Fighting
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '60'
+  text: Flip a coin. If tails, this attack does nothing.
+weaknesses:
+- type: Grass
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: ex4
+  name: Team Magma vs Team Aqua
+  series: EX
+  printedTotal: 95
+  total: 97
+  legalities:
+    unlimited: Legal
+  ptcgoCode: MA
+  releaseDate: 2004/03/01
+  updatedAt: 2019/01/28 16:44:00
+  images:
+    symbol: https://images.pokemontcg.io/ex4/symbol.png
+    logo: https://images.pokemontcg.io/ex4/logo.png
+number: '38'
+artist: Mt. TBT
+rarity: Uncommon
+nationalPokedexNumbers:
+- 111
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/ex4/38.png
+  large: https://images.pokemontcg.io/ex4/38_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/ex4-38
+  updatedAt: 2023/09/09
+  prices:
+    normal:
+      low: 1.2
+      mid: 1.75
+      high: 2.89
+      market: 1.61
+      directLow: 
+    reverseHolofoil:
+      low: 2.5
+      mid: 3.95
+      high: 7.74
+      market: 7.72
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/ex4-38
+  updatedAt: 2023/09/09
+  prices:
+    averageSellPrice: 0.53
+    lowPrice: 0.1
+    trendPrice: 0.64
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 1.98
+    reverseHoloLow: 0.9
+    reverseHoloTrend: 2.83
+    lowPriceExPlus: 0.39
+    avg1: 0.1
+    avg7: 0.49
+    avg30: 0.58
+    reverseHoloAvg1: 1.98
+    reverseHoloAvg7: 2.9
+    reverseHoloAvg30: 2.09
